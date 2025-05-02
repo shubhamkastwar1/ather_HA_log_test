@@ -1,0 +1,10 @@
+{
+  "domain": "ather_450x",
+  "name": "Ather 450X",
+  "version": "1.0.0",
+//   "documentation": "https://github.com/your-username/home-assistant-ather-450x",  // Replace with your GitHub repo (if you have one)
+//   "issue_tracker": "https://github.com/your-username/home-assistant-ather-450x/issues", // Replace with your GitHub repo (if you have one)
+  "dependencies": [],
+  "codeowners": ["Shubham Kastwar <shubham_kastwar123@yahoo.com>"],
+  "requirements": ["aiohttp"]
+} 
